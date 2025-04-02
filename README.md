@@ -12,7 +12,7 @@ I love exploring new technologies, optimizing performance, and designing intuiti
 
 Beyond software, I have an interest in VLSI (RISC-V), Embedded systems, blending my understanding of software and hardware to explore innovative solutions.
 
-I’m always excited to learn, collaborate, and build something impactful. Let’s connect and create something amazing
+I’m always excited to learn, collaborate, and build something impactful. Let’s connect and create something amazing!
 
 - 🌟 **Expertise:** HTML, CSS, JavaScript, ReactJs, Python, Kotlin, Java, and Embedded C
 - 📘 **Learning:** Business Analyst, UI/UX, Kotlin, Database, C, C#
@@ -49,15 +49,13 @@ I’m always excited to learn, collaborate, and build something impactful. Let�
   <a href="https://www.instagram.com/__deepxk._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="deepakmaragathavel@gmail.com" target="_blank">
+  <a href="mailto:deepakmaragathavel@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/deepakmaragathavel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-
 
 <br clear="both">
 
