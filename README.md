@@ -60,5 +60,5 @@ Iâ€™m always excited to learn, collaborate, and build something impactful. Letâ€
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Bharathi7688/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Itz-me-deepak/count.svg?"  />
 </div>
